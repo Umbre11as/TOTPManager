@@ -10,7 +10,7 @@
 
 ### Building
 1. Make sure you selected MSVC compiler
-2. Run `cmake -DCMAKE_TOOLCHAIN_FILE="thirdparty/vcpkg/scripts/buildsystems/vcpkg.cmake" -DVCPKG_TARGET_TRIPLET=x64-windows-static`
+2. Run `cmake -DCMAKE_TOOLCHAIN_FILE="thirdparty/vcpkg/scripts/buildsystems/vcpkg.cmake" -DVCPKG_TARGET_TRIPLET=x64-windows-static --build dist`
 
 ### Usage
 Run program and paste secret key. If you have a QR code -> use online scanner.
