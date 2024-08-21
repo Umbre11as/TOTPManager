@@ -1,0 +1,8 @@
+{
+  "name": "totpmanager",
+  "version-string": "1.0",
+  "builtin-baseline": "2145fbe4f0a08de4547f391de47d88c18a01f1ba",
+  "dependencies": [
+    "openssl"
+  ]
+}
